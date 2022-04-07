@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP Architecture Example</string>
+    <string name="buttonText">Next Quote</string>
+    <string name="heading">MVP Architecture Pattern</string>
+    <string name="subHeading">Quote Generator</string>
+    <string name="description">Tap on "Next Quote" button to see random quotes</string>
+</resources>
